@@ -306,7 +306,7 @@ footer .copyright {
 }
 
 .top {
-  background-image: url(/image/top-mv_sp.png);
+  background-image: url(https://github.com/sakamotosora77/sakamotosora.portofolio/blob/main/image/top-mv_sp.png?raw=true);
   background-size: cover;
   background-position: center;
   height: 674px;
@@ -316,7 +316,7 @@ footer .copyright {
 
 @media print, screen and (min-width: 768px) {
   .top {
-    background-image: url(/image/top-bg.png);
+    background-image: url(https://github.com/sakamotosora77/sakamotosora.portofolio/blob/main/image/top-bg.png?raw=true);
   }
 }
 
